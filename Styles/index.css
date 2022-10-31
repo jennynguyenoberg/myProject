@@ -37,6 +37,11 @@ main {
   width: 50%;
 }
 
+.highlight {
+  color: #5A0B4D;
+  font-size: 2em;
+}
+
 footer {
   color: #ffffff;
 }
