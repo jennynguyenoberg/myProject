@@ -28,7 +28,13 @@ footer {
 }
 
 main {
-  height: 1000px;
+  flex-grow: 1;
+}
+
+.main-content {
+  background-color: #92D5E6git;
+  padding: 48px;
+  width: 50%;
 }
 
 footer {
