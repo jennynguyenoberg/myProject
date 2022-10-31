@@ -1,0 +1,36 @@
+html {
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, 
+h2 {
+  color: #ffffff;
+}
+
+body {
+  background-color: #A1EF8B;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+}
+
+header, 
+footer {
+  background-color: #5A0B4D;
+  color: black;
+  padding: 48px;
+  text-align: center;
+}
+
+main {
+  height: 1000px;
+}
+
+footer {
+
+}
